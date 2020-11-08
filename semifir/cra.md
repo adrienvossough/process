@@ -8,6 +8,8 @@
 
 ## Le remplir (tous les soirs)
 
+(lien vers le CRA de l'équipe)[cra excel]
+
 1. Mettre le nombre d’heures dans la colonne _temps passé_ 
 1h15 = 1.25  
 1h30 = 1.5  
