@@ -19,5 +19,5 @@ Exemple :  ![cra exemple]
 **Pour les personnes de l’équipe qui ne font pas de dev/formation :**  
 Laisser _Type_ vide et remplir _Description_  
 
-[cra exemple]: assets\cra.png
-[cra excel]: assets\CRA Novembre.xlsx
+[cra exemple]: assets/cra.png
+[cra excel]: https://semifirsas-my.sharepoint.com/:f:/r/personal/leonore_semifir_com/Documents/gestion_equipe?csf=1&web=1&e=peDreM
