@@ -8,7 +8,7 @@
 
 ## Le remplir (tous les soirs)
 
-(lien vers le CRA de l'équipe)[cra excel]
+[lien vers le CRA de l'équipe][cra excel]
 
 1. Mettre le nombre d’heures dans la colonne _temps passé_ 
 1h15 = 1.25  
@@ -22,4 +22,4 @@ Exemple :  ![cra exemple]
 Laisser _Type_ vide et remplir _Description_  
 
 [cra exemple]: assets/cra.png
-[cra excel]: https://semifirsas-my.sharepoint.com/:f:/r/personal/leonore_semifir_com/Documents/gestion_equipe?csf=1&web=1&e=peDreM
+[cra excel]: https://semifirsas-my.sharepoint.com/:f:/r/personal/leonore_semifir_com/Documents/gestion_equipe/cra/?csf=1&web=1&e=peDreM
