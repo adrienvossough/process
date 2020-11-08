@@ -1,6 +1,6 @@
 # pour ajouter une suggestion de process ou d'organisation
 
-## titre du process/organisaiton à mettre en place
+## titre du process/organisation à mettre en place
 
 Objectifs de ce process/organisation  
 
@@ -25,3 +25,5 @@ ajouter une description détaillée du process, images, liens, etc.
 ## conditions de mise en place
 
 Décrire comment le process ou la nouvelle organisation doit être mise en place et appliquée par l'équipe.
+
+## ajouter votre dossier dans /process/votrenom/titre_process
