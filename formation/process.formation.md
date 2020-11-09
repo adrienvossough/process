@@ -15,5 +15,4 @@
 
 1. [deposer vos emargements ici][deposer emargements]
 
-[deposer emargements]: http://truc.com
-[truc]: http
+[deposer emargements]: https://semifirsas-my.sharepoint.com/:f:/r/personal/leonore_semifir_com/Documents/emargements?csf=1&web=1&e=aB0Gdn
