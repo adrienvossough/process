@@ -7,12 +7,15 @@
 
 ## Accepter ou non une formation
 
+![arbre de decision](assets/formation-arbre-decision.png)
+
 ## Preparer une formation
 
 ## Donner une formation
 
 ## Après la formation
 
-1. [deposer vos emargements ici][deposer emargements]
+1. [deposer vos emargements et évaluations ici][deposer emargements]
 
-[deposer emargements]: https://semifirsas-my.sharepoint.com/:f:/r/personal/leonore_semifir_com/Documents/emargements?csf=1&web=1&e=aB0Gdn
+[deposer emargements]: http://truc.com
+[arbre de decision]: /assets/formation-arbre-decision
