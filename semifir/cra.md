@@ -14,9 +14,9 @@
 2. Sélectionner l’activité dans la liste déroulante  
 3. description brève dans  _Description_  
 4. détail dans la colonne _résultat_ : être le plus exhaustif possible:
-formation : détailler ce qui a été vu avec les stagiaires
-dev : détailler ce qui a été réalisé/bloquant
-preparation : détailler ce qui a été réalisé, nombre de slides, nombre d'exercices, ajouter des liens vers le drive
+*formation : détailler ce qui a été vu avec les stagiaires
+*dev : détailler ce qui a été réalisé/bloquant
+*preparation : détailler ce qui a été réalisé, nombre de slides, nombre d'exercices, ajouter des liens vers le drive
 
 
 **Pour les personnes de l’équipe qui ne font pas de dev/formation :**  
